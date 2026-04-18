@@ -34,6 +34,8 @@
   <img width="12" />
 </div>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisMigue-lm/luisMigue-lm/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisMigue-lm/luisMigue-lm/output/pacman-contribution-graph.svg">
@@ -69,3 +71,4 @@
 ---
 <img src="https://komarev.com/ghpvc/?username=luisMigue-lm&icon=0&">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPG ( https://profile-readme-generator.com/pt-BR/result ) -->
