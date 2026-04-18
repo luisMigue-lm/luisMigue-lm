@@ -66,7 +66,7 @@
 
 <h3>🎧 I'm listening:</h3>
 
-<img align="left"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae4655b9-f170-4bcc-b8c1-9e2230170610/djx6u6a-b934f79b-93a8-4caf-89d7-f97525e9b05c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hZTQ2NTViOS1mMTcwLTRiY2MtYjhjMS05ZTIyMzAxNzA2MTAvZGp4NnU2YS1iOTM0Zjc5Yi05M2E4LTRjYWYtODlkNy1mOTc1MjVlOWIwNWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PSYf0VL_KqKbQfDXCFJxKEBR7_p-Puwo6Db4Fy9LjJ8" height="225vh"  />
+<img align="left"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae4655b9-f170-4bcc-b8c1-9e2230170610/djx6u6a-b934f79b-93a8-4caf-89d7-f97525e9b05c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hZTQ2NTViOS1mMTcwLTRiY2MtYjhjMS05ZTIyMzAxNzA2MTAvZGp4NnU2YS1iOTM0Zjc5Yi05M2E4LTRjYWYtODlkNy1mOTc1MjVlOWIwNWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PSYf0VL_KqKbQfDXCFJxKEBR7_p-Puwo6Db4Fy9LjJ8" height="200vh"  />
 
 <br>
 <br>
@@ -74,7 +74,7 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31f2rs2qpbgrpma7e3ilc2if2llm&redirect=true" text-decoration="none">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31f2rs2qpbgrpma7e3ilc2if2llm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
   </a>
-  <img align="right"  src="https://66.media.tumblr.com/tumblr_mai2gkygAV1rfjowdo1_500.gif" height="125vh"  />
+  <img align="right"  src="https://66.media.tumblr.com/tumblr_mai2gkygAV1rfjowdo1_500.gif" height="100vh"  />
 </p>
 <br>
 <br>
