@@ -3,7 +3,7 @@
     <img align="right"  src="https://projectpokemon.org/images/sprites-models/bw-animated/475.gif"  />
     <img align="left"  src="https://projectpokemon.org/images/sprites-models/bw-animated/260.gif"  />
     <summary><h1 style="display: inline-block">Hello there! 👋</h1></summary>
-    <p>🌱 My name is Luis Miguel and I am graduating as an IT technician from IFSP - ITP</p>
+    <p>🌱 My name is Luis Miguel and I am graduating as a computer technician from IFSP - ITP.</p>
 
 </div>
 
